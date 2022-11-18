@@ -5,4 +5,4 @@ eureka:
 
 spring:
   application:
-    name: Employee-producer
+    name: employee-producer
